@@ -1,6 +1,6 @@
 # NetPractice
 
-![NetPractice Logo](imgs/cover-net_practice.png)
+![NetPractice Logo](img/cover-net_practice.png)
 
 Welcome to **NetPractice**, a unique and challenging project designed to introduce the fundamentals of computer networking. Unlike traditional coding projects, **NetPractice** focuses on understanding and solving networking problems using TCP/IP, subnetting, and routing principles. This hands-on journey deepens your knowledge of how networks operate and communicate.
 
@@ -85,7 +85,7 @@ NetPractice is an excellent way to bridge the gap between theory and practical a
 
 ---
 
-![NetPractice Badge](imgs/netpracticee.png)
+![NetPractice Badge](img/netpracticee.png)
 
 **Thank you for exploring NetPractice!**  
-We hope this README inspires you to dive deeper into the fascinating world of networking. 🌐
+I hope this README inspires you to dive deeper into the fascinating world of networking. 🌐
